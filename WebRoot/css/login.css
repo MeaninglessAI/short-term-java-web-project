@@ -1,0 +1,81 @@
+@CHARSET "UTF-8";
+
+a{
+	text-decoration:none;
+	color:black;
+}
+body{
+	background-color:#F7FAFC;
+}
+
+
+.top_top{
+	position: absolute; 
+	left: 570px;
+	top:120px;
+	font-size:50px;
+	font-family:Times;
+	color:#0F88EB;
+}
+
+.top_butttom{
+	position: absolute; 
+	left: 510px;
+	top:190px;
+	font-size:25px;
+	font-family:"黑体";	
+}
+
+.mid_left{
+	position: absolute; 
+	left: 580px;
+	top:250px;
+	font-size:20px;
+	width:62px;
+	heitht:45px;
+	text-align:center;
+}
+
+.mid_right{
+	position: absolute; 
+	left: 680px;
+	top:250px;
+	font-size:20px;
+	width:62px;
+	heitht:40px;
+	text-align:center;
+}
+
+.login{
+	position: absolute; 
+	left: 510px;
+	top:320px;
+	width:300px;
+	height:180px;
+	background-color:white;
+	border:1px solid #D5D5D5;
+	border-radius:5px;
+}
+
+.login_{
+	height:60px;
+	width:300px;
+	border:none;
+	border:1px solid #D5D5D5;
+	padding:10px;
+}
+
+.sub{
+	position: absolute; 
+	left: 510px;
+	top:530px;
+	background-color:#0F88EB;
+	width:300px;
+	height:50px;
+	line-height:50px;
+	font-size:18px;
+	color:white;
+	font-family:"微软雅黑";
+	border-radius:5px;
+	border:none;
+}

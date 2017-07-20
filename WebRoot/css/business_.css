@@ -1,0 +1,5 @@
+.right{margin-top:50px;float: left;margin-left: 70px;}
+.right_top{float: left;border:#CCCCCC solid 1px;background-color: #E8E8E8;height: 38px;width: 222px;text-align: center;line-height: 38px;font-family: "微软雅黑";}
+
+.right_buttom{float: left;border:#CCCCCC solid 1px;height: 38px;width: 222px;text-align: center;line-height: 38px;font-family: "微软雅黑";}
+.right_buttom button{border:none;height: 25px;width: 90px;}

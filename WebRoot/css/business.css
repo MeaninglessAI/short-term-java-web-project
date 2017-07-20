@@ -1,0 +1,17 @@
+button a{color:black;text-decoration: none}
+
+.top{background-color: #2A2C2E;height: 70px;}
+.top div{float: right;color:white;padding-right: 50px;}
+
+.top_1{background-color: #E1E0E0;height: 35px;}
+.top_1 div{font-size: 13px;float:left;line-height: 35px;margin-left: 10px;}
+.top_1 a{color:black;text-decoration: none}
+
+.top_2{background-color: #CCCCCC;height: 45px;}
+.top_2_left{float: left;line-height: 45px;margin-left: 20px;border-right:1px solid #505254; width: 166px;}
+.top_2_right{float:left;line-height: 45px;padding-left: 20px;}
+
+
+.left{background-color: #505254;width: 187px;height: 450px;}
+.left a{text-decoration: none;color:white;}
+.left div{color:white;font-size: 15px;height: 4;line-height: 40px;padding-left: 30px;}
